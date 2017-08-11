@@ -1,7 +1,6 @@
 # super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+An ember tutorial that can be found in the ember [doc](https://guides.emberjs.com/v2.14.0/tutorial/ember-cli/)
 
 ## Prerequisites
 
