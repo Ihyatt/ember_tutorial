@@ -1,6 +1,6 @@
 # super-rentals
 
-An ember tutorial that can be found in the ember [doc](https://guides.emberjs.com/v2.14.0/tutorial/ember-cli/)
+An ember tutorial that can be found [here](https://guides.emberjs.com/v2.14.0/tutorial/ember-cli/)
 
 ## Prerequisites
 
